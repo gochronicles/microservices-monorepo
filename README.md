@@ -16,9 +16,9 @@
 
 ### Run a Microservice:
 
-Run a particular microservice (eg patient)
+Run a particular microservice (eg domain)
 
-``` go run cmd/patient/main.go`
+``` go run cmd/domain/main.go`
 
 Endpoint available at
 
